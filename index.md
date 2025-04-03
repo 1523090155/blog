@@ -10,9 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# 学习
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+使用Jekyll 托管平台 搭建了我的博客站
+
+[Link to another page](./another-page.html).
 
 ## Header 2
 
@@ -105,10 +107,8 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>0000</dd>
-<dt>Birthplace</dt>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>T</dd>
+
 </dl>
 
 ```
