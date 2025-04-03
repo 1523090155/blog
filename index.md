@@ -13,15 +13,13 @@ layout: default
 
 使用Jekyll 托管平台 搭建了我的博客站
 
-[Link to another page](./another-page.html).
-
-
 
 <dl>
 <dt>Name</dt>
 <dd>T</dd>
-[网页格式](./another-page.html).
 </dl>
+
+[网页格式](./another-page.html)
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
