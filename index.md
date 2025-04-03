@@ -11,10 +11,7 @@ layout: default
 
 使用Jekyll 托管平台 搭建了我的博客站
 
----
-layout: default
-title: 博客首页
----
+
 
 <h1>最近的文章</h1>
 <ul>
