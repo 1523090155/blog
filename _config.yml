@@ -1,5 +1,5 @@
 title: my blog page
 description: 我的博客！！
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
