@@ -4,7 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[书签页](https://shuqian.111600.xyz/).
+[书签页](https://shuqian.111600.xyz/)
+[创建PAC](https://sspac.111600.xyz/)
 
 There should be whitespace between paragraphs.
 
