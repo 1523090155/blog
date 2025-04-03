@@ -27,4 +27,4 @@ layout: default
 
 [网页格式](./another-page.html)
 
-####  <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+####  <a href="https://github.com/1523090155/blog" class="btn">View on GitHub</a>
