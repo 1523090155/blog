@@ -2,18 +2,23 @@
 layout: default
 ---
 
-[书签页](https://shuqian.111600.xyz/)
+[]: # ... existing code ...
+<span style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px;">
+  <a href="https://shuqian.111600.xyz/">书签页</a>
+</span>
+<span style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px;">
+  <a href="https://sspac.111600.xyz/">创建PAC</a>
+</span>
+[]: # ... existing code ...
 
-[创建PAC](https://sspac.111600.xyz/)
+# 学习Jekyll建站
+
+```
+2025.4.3使用Jekyll+AI 搭建了博客站
+```
 
 
-# 学习
-
-使用Jekyll 托管平台 搭建了我的博客站
-
-
-
-<h1>最近的文章</h1>
+<h1>文章</h1>
 <ul>
   {% for post in site.posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}</li>
