@@ -3,7 +3,7 @@ layout: default
 ---
 
 <span style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px;">
-  <a href="https://shuqian.111600.xyz/">书签页</a>
+  <a href="https://my.111600.xyz/">书签页</a>
 </span>
 <span style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px;">
   <a href="https://sspac.111600.xyz/">创建PAC</a>
