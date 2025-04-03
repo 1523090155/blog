@@ -3,3 +3,8 @@ description: 我的博客@T
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+
