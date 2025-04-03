@@ -9,7 +9,7 @@ layout: default
 
 # 学习
 
-使用Jekyll 托管平台 搭建了我的博客站---
+使用Jekyll 托管平台 搭建了我的博客站
 
 ---
 layout: default
