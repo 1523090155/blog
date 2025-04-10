@@ -1,4 +1,54 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+{@import 'jekyll-theme-cayman';
+
+/* 博文标题样式 */
+.post-title {
+  font-size: 2.5rem;
+  color: $section-headings-color;
+  margin-bottom: 1rem;
+}
+
+/* 博文日期样式 */
+.post-date {
+  font-size: 0.9rem;
+  color: $blockquote-text-color;
+  margin-bottom: 2rem;
+}
+
+/* 博文内容样式 */
+.post-content {
+  line-height: 1.7;
+  h2 {
+    font-size: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+  }
+  h3 {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  p {
+    margin-bottom: 1.5rem;
+  }
+  ul, ol {
+    margin-bottom: 1.5rem;
+  }
+  img {
+    display: block;
+    margin: 2rem auto;
+    max-width: 90%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+}
+
+/* 博文分类和标签样式 */
+.post-categories, .post-tags {
+  font-size: 0.9rem;
+  color: $blockquote-text-color;
+  margin-top: 2rem;
+}
+}
